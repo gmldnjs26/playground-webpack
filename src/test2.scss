@@ -1,0 +1,10 @@
+.test2 {
+  display: grid;
+  background-image: -webkit-gradient(
+    linear,
+    left top,
+    left bottom,
+    color-stop(0, #8bcc8e),
+    color-stop(1, #a7f5ab)
+  );
+}

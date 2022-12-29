@@ -1,0 +1,10 @@
+.container {
+  ::placeholder {
+    color: gray;
+  }
+  background-color: aqua;
+  &__box-1 {
+    transform: scaleX(1);
+    margin-bottom: 20px;
+  }
+}

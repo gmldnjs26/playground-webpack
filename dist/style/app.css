@@ -1,0 +1,2 @@
+.container{background-color:aqua}.container ::-webkit-input-placeholder{color:gray}.container ::-moz-placeholder{color:gray}.container :-ms-input-placeholder{color:gray}.container ::-ms-input-placeholder{color:gray}.container ::placeholder{color:gray}.container__box-1{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1);margin-bottom:20px}
+.test2{display:-ms-grid;display:grid;background-image:-webkit-gradient(linear, left top, left bottom, color-stop(0, #8bcc8e), color-stop(1, #a7f5ab))}
